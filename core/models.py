@@ -108,3 +108,5 @@ class Moshinaa(models.Model):
 
     def __str__(self):
         return self.turr
+
+        
